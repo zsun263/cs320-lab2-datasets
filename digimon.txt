@@ -1,0 +1,2 @@
+https://www.kaggle.com/rtatman/digidb
+this is a dataset about digimon and their move sets
