@@ -1,0 +1,1 @@
+https://data.world/typhon/new-york-times-bestsellers-from-2011-to-2018: Dataset of NYTimes best-seller from 2011 to 2018. Data aggregated by user and organized in csv file
