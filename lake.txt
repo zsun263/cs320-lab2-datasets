@@ -1,1 +1,5 @@
 lake dataset
+
+https://www.kaggle.com/foenix/slc-crime
+This dataset gives us information regarding crime reports in the Salt Lake
+City area.
