@@ -1,3 +1,7 @@
 url: https://www.kaggle.com/sevgisarac/temperature-change
 
 The mean surface temperature change by country based on GISTEMP data distributed by NASA-GISS.
+
+url: https://datahub.io/core/global-temp -- The 1) global monthly mean and 2) annual mean temperature anomalies in degrees Celsius from 1880
+
+url:https://www.kaggle.com/budincsevity/szeged-weather -- The CSV file includes a hourly/daily summary for Szeged, Hungary area, between 2006 and 2016.
