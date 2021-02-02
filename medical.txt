@@ -1,5 +1,11 @@
+
 https://www.cms.gov/OpenPayments. This dataset makes financial relationships between physicians and medical companies more transparent. You can extract the total dollar value of payments made to individual physicians.
 
 https://open.fda.gov/tools/downloads/.  The FDA  posted many datasets here, regarding food recalls, adverse reactions to drugs, and approved medical devices.
 
+https://meps.ahrq.gov/mepsweb/  The MEPS (Medical Expenditure Panel Survey) is the most complete source of data on the cost and use of health care and health insurance coverage in the United States.
+
+https://www.kaggle.com/gpreda/covid-world-vaccination-progress This data set talks about COVID-19 vaccination progress
+
 Interesting!
+The mitochondria is the powerhouse of the cell
