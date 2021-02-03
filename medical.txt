@@ -9,3 +9,5 @@ https://www.kaggle.com/gpreda/covid-world-vaccination-progress This data set tal
 
 Interesting!
 The mitochondria is the powerhouse of the cell
+
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/community-health-workers-density-(per-10-000-population) WHO tracks community health workers density
