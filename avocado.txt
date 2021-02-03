@@ -1,0 +1,5 @@
+
+This is a historical dataset on avocado prices and sales volume in multiple US markets.
+
+
+https://www.kaggle.com/neuromusic/avocado-prices
