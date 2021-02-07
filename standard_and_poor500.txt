@@ -1,0 +1,3 @@
+Link: https://github.com/tylerharter/cs320-lab2-datasets.git
+
+Includes the monthly :dividend, earnings and P/E ratio for all stocks listed on the Standard&Poor since 1870
