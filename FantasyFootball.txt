@@ -1,0 +1,3 @@
+https://www.footballdb.com/fantasy-football/index.html
+
+Contains 2020 Fantasy Football Statistics for each player.
