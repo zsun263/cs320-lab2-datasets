@@ -1,0 +1,2 @@
+https://data.bloomington.in.gov/dataset/traffic-data/resource/8673744e-53f2-42d1-9d05-4e412bd55c94
+This set of raw data contains crash reports from Monroe County from 2003 to 2015.
