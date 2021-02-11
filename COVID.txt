@@ -1,0 +1,2 @@
+https://github.com/datasets/covid-19/blob/main/data/us_confirmed.csv
+list of confirmed COVID cases
